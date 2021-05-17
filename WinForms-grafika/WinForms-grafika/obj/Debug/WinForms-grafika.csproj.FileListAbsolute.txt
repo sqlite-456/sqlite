@@ -1,0 +1,10 @@
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\bin\Debug\WinForms-grafika.exe.config
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\bin\Debug\WinForms-grafika.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\bin\Debug\WinForms-grafika.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms-grafika.csprojResolveAssemblyReference.cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms_grafika.MainForm.resources
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms-grafika.csproj.GenerateResource.Cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms-grafika.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms-grafika.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms_grafika.Form1.resources
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-grafika\WinForms-grafika\obj\Debug\WinForms_grafika.Form2.resources
