@@ -1,0 +1,9 @@
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms-MSSQL.csprojResolveAssemblyReference.cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms_MSSQL.MainForm.resources
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms-MSSQL.csproj.GenerateResource.Cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\bin\Debug\WinForms-MSSQL.exe.config
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\bin\Debug\WinForms-MSSQL.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\bin\Debug\WinForms-MSSQL.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms-MSSQL.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms-MSSQL.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\WinForms-MSSQL\WinForms-MSSQL\obj\Debug\WinForms_MSSQL.Form1.resources
