@@ -1,0 +1,10 @@
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\bin\Debug\Winforms-SQLite.exe.config
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\bin\Debug\Winforms-SQLite.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\bin\Debug\Winforms-SQLite.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms-SQLite.csprojResolveAssemblyReference.cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms_SQLite.MainForm.resources
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms-SQLite.csproj.GenerateResource.Cache
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms-SQLite.exe
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms-SQLite.pdb
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms_SQLite.Form1.resources
+C:\Users\MATEJ\Documents\SharpDevelop Projects\Winforms-SQLite\Winforms-SQLite\obj\Debug\Winforms_SQLite.Form2.resources
